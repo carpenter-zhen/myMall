@@ -8,6 +8,7 @@ package com.zhenjing.mymall.model;
  * @version: $
  */
 public class User {
-    private String User;
+    private Integer id;
+    private String name;
 
 }
