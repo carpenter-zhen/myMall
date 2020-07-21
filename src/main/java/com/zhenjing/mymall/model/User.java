@@ -11,6 +11,5 @@ public class User {
     private Integer id;
     private String name;
     private String phone;
-    private boolean sex;
-
+    private String address;
 }
