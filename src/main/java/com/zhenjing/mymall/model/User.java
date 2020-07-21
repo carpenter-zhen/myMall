@@ -9,4 +9,5 @@ package com.zhenjing.mymall.model;
  */
 public class User {
     private String User;
+
 }
